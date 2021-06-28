@@ -1,4 +1,4 @@
 element.style {font-size: 32px;}
 body {display: block;margin: 8px;color: white;}h2 {font-size: 1,5em;margin-block-start: 0,83em;}p {font-size: 1em;}
-section {font-size: 1.5rem;background-color: darkcyan;padding: 1em;}            /*   <!-- 1rem = 24 px -->   */
+section {font-size: 1.5rem;background-color: darkcyan;padding: 1em;border-radius: 50%;}            /*   <!-- 1rem = 24 px -->   */
 main {font-size: 1.5em;}
